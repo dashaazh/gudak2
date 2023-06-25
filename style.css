@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: darkblue;
+    border: 10px solid darkblue;
+    border-radius: 9px;
+}
+.ubogo{
+    color: darkblue;
+    font-size: 26px;
+}
+footer p{
+    border: 3px solid grey;
+}
+.contacts{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav{
+    border: 3px solid limegreen;
+    border-radius: 6px;
+}
+nav a{
+    padding: 29px;
+    margin: 4px;
+}
+main p{
+    border: 5px solid royalblue;
+    border-radius: 9px;
+    background-color: rgba(6, 95, 211, 0.822);
+}
+h2{
+    font-size: 23px;
+    color: mediumaquamarine;
+}
